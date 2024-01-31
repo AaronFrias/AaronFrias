@@ -5,7 +5,7 @@ I am passionate about Deep Learning, IA and real-time data monitoring ☁️. I 
 My expertise lies in identifying business problems and developing AI-based solutions and advanced analytics for that use case. I have successfully complited the development of multiple AI projects and web applications, resulting in improved user experience and increased customer satisfaction.     
 
 <a href="https://linktr.ee/aaronfrias">
-    <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
+    <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
  
 ## Updates ⚙️:    
