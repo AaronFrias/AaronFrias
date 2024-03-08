@@ -13,7 +13,7 @@ My expertise lies in identifying business problems and developing AI-based solut
 💻 M.S., Data Science and Big Data at IEBS, Innovation & Entrepreneurship Business School (October 2024)
 📊 B.S., Business Manadgment at URV, Universitat Rovira i Virgili (June 2020)
 
-## Specializations and Certifications
+## Specializations and Certifications 📍:
 
 IBM Data Science Specialization
 
