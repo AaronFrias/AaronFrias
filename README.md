@@ -16,13 +16,21 @@ My expertise lies in identifying business problems and developing AI-based solut
 ## Specializations and Certifications
 
 IBM Data Science Specialization
+
 Stanford University & DeepLearning.AI Machine Learning Specialization
+
 DeepLearning.IA Mathematics for Machine Learning and Data Science Specialization
+
 DeepLearning.IA TensorFlow Developer Specialization
+
 IBM Generative AI for Data Scientist Specialization
+
 IBM Data Science Fundamentals with Python and SQL Specialization
+
 IBM Machine Learning with Python (with Honors)
+
 AWS Practical Data Science on the AWS Cloud Specialization
+
 Stanford University & DeepLearning.AI Advanced Learning Algorithms
  
 ## Updates ⚙️:    
