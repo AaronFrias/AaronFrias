@@ -7,6 +7,23 @@ My expertise lies in identifying business problems and developing AI-based solut
 <a href="https://linktr.ee/aaronfrias">
     <img align="right" alt="Coding" width="250" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
+
+## Education 📚:
+
+💻 M.S., Data Science and Big Data at IEBS, Innovation & Entrepreneurship Business School (October 2024)
+📊 B.S., Business Manadgment at URV, Universitat Rovira i Virgili (June 2020)
+
+## Specializations and Certifications
+
+IBM Data Science Specialization
+Stanford University & DeepLearning.AI Machine Learning Specialization
+DeepLearning.IA Mathematics for Machine Learning and Data Science Specialization
+DeepLearning.IA TensorFlow Developer Specialization
+IBM Generative AI for Data Scientist Specialization
+IBM Data Science Fundamentals with Python and SQL Specialization
+IBM Machine Learning with Python (with Honors)
+AWS Practical Data Science on the AWS Cloud Specialization
+Stanford University & DeepLearning.AI Advanced Learning Algorithms
  
 ## Updates ⚙️:    
        
